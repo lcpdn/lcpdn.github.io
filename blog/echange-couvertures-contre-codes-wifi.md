@@ -1,6 +1,6 @@
 # Echange couvertures de survie contre couverture Wifi
 ## Vous n'êtes que le messager, mais en attendant ne dérangez pas mes cercles.
-Les télécommunications, c’est bien, ça permet de [prévenir une population]( https://cloud.lcpdn.net/public/blog/cell-broadcast-quel-brodcast/) d’un danger qui menace. Mais pas que. Une fois le choc passé (que ce soit une catastrophe naturelle, industrielle ou un acte criminel ou terroriste), les impliqués chercheront naturellement à communiquer, dans les deux sens. 
+Les télécommunications, c’est bien, ça permet de [prévenir une population]( https://lcpdn.github.io/blog/cell-broadcast-quel-brodcast) d’un danger qui menace. Mais pas que. Une fois le choc passé (que ce soit une catastrophe naturelle, industrielle ou un acte criminel ou terroriste), les impliqués chercheront naturellement à communiquer, dans les deux sens. 
 Si les voyageurs d’un train [bloqué](https://twitter.com/search?q=%40SNCF+mon+train+est+bloqu%C3%A9) cherchent à obtenir de la SNCF des réponses sur Twitter sur leur situation inconfortable mais peu dramatique, on ne peut que conceptualiser la quête d’informations immédiates qui sera celle de personnes victimes d’évènements tragiques comme des attentats. Il suffit de passer quelques heures dans un centre d’accueil des impliqués (ou pire un Centre d’Hébergement d’Urgence) pour réaliser à quel point le besoin d’information est important.
 Notre société connectée n’aidera certainement pas à faire baisser cette volonté d’information de la part du public.
 
