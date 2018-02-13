@@ -12,3 +12,4 @@ Well, the best way is to ping me on Twitter: [@patrikryann](https://www.twitter.
 Vous trouverez mes articles de blog ici : 
 * [Application pour SAIP ou APIs pour Applications](https://lcpdn.github.io/blog/application-pour-saip-ou-apis-pour-applications)
 * [Cell Broadcast ? Quel Broadcast ?](https://lcpdn.github.io/blog/cell-broadcast-quel-brodcast)
+* [Echange couvertures de survie contre couverture Wifi](https://lcpdn.github.io/blog/echange-couvertures-contre-codes-wifi)
