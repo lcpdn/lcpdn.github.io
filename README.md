@@ -8,6 +8,10 @@ My linkedin is here : [LinkedIn profile](https://www.linkedin.com/in/loicpeden/)
 ### How to contact me ?
 Well, the best way is to ping me on Twitter: [@patrikryann](https://www.twitter.com/patrikryann)
 
+### Tools for research
+Wanna get access to some tools easing research ? Try those : [phd-rd-tools](./phd-rd-tools)
+
+
 ### Blog -french only
 Vous trouverez mes articles de blog ici : 
 * [Echange couvertures de survie contre couverture Wifi](https://lcpdn.github.io/blog/echange-couvertures-contre-codes-wifi)
